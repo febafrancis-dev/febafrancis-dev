@@ -1,6 +1,6 @@
 # Hi, I'm Feba Francis 👋
 
-### Software Engineer | React.js | TypeScript | Frontend Development
+### Software Engineer | React.js | TypeScript | Frontend Development | Software Testing
 
 I'm a Software Engineer with **2.5+ years of experience** in building responsive and maintainable web applications.
 
