@@ -6,6 +6,8 @@ I'm a Software Engineer with **2.5+ years of experience** in building responsive
 
 I specialize in **React.js, TypeScript, JavaScript and Tailwind CSS**, with additional knowledge of backend technologies including .NET, Java and Spring Boot.
 
+I have hands-on exposure to software testing alongside development, including functional testing, UI validation, API response validation, edge case testing, bug identification, debugging and verifying fixes.
+
 I enjoy building user-friendly applications, developing reusable components and exploring modern technologies, including AI-powered applications.
 
 ---
@@ -15,12 +17,12 @@ I enjoy building user-friendly applications, developing reusable components and 
 - 💼 Currently working as a Software Engineer at **Vofox Solutions Pvt. Ltd.**
 - ⚛️ Experienced in React.js, TypeScript and modern frontend development.
 - 🔗 Experienced in REST API integration and frontend-backend communication.
-- 💻 Knowledge of .NET, Java, Spring Boot and MySQL.
-- 🌱 Currently expanding my skills in AI integration, software architecture and testing.
-- 🚀 Exposure to software testing, functional testing, validating API responses, checking edge cases, identifying defects, debugging and verifying fixes.
+- 🧪 Hands-on exposure to functional testing, UI validation, API validation and debugging.
+- 🐞 Identify defects, investigate issues and verify fixes to improve application quality.
+- 💻 Additional knowledge of .NET, Java, Spring Boot and MySQL.
+- 🌱 Currently expanding my skills in AI integration, software architecture and software testing.
 
 ---
-
 
 ### 🛠️ Technical Skills
 
@@ -46,13 +48,21 @@ I enjoy building user-friendly applications, developing reusable components and 
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+**Software Testing**
+
+- Functional Testing
+- UI Testing
+- API Response Validation
+- Edge Case Testing
+- Bug Identification & Debugging
+- Retesting & Fix Verification
 
 ---
-
 
 ### 📌 Featured Projects
 
 #### 🗺️ Postal Address Map
+
 A geolocation-based web application developed to visualize and manage spatial data.
 
 **Technologies:** React, TypeScript, Tailwind CSS
@@ -62,7 +72,6 @@ A geolocation-based web application developed to visualize and manage spatial da
 - Built responsive user interfaces.
 
 🚀 More projects, including AI-powered applications, coming soon!
-
 
 ---
 
