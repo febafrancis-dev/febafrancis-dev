@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Feba Francis 👋
 
-<!--
-**febafrancis-dev/febafrancis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | React.js | TypeScript | Frontend Development
 
-Here are some ideas to get you started:
+I'm a Software Engineer with **2.5+ years of experience** in building responsive and maintainable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in **React.js, TypeScript, JavaScript and Tailwind CSS**, with additional knowledge of backend technologies including .NET, Java and Spring Boot.
+
+I enjoy building user-friendly applications, developing reusable components and exploring modern technologies, including AI-powered applications.
+
+---
+
+### 👩‍💻 About Me
+
+- 💼 Currently working as a Software Engineer at **Vofox Solutions Pvt. Ltd.**
+- ⚛️ Experienced in React.js, TypeScript and modern frontend development.
+- 🔗 Experienced in REST API integration and frontend-backend communication.
+- 💻 Knowledge of .NET, Java, Spring Boot and MySQL.
+- 🌱 Currently expanding my skills in AI integration, software architecture and testing.
+- 🚀 Interested in building practical applications and continuously improving my development skills.
+
+---
+
+### 🛠️ Technical Skills
+
+**Frontend**
+- React.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Tailwind CSS
+- Bootstrap
+
+**Backend**
+- C# / .NET
+- Java
+- Spring Boot
+- RESTful APIs
+
+**Database**
+- MySQL
+
+**Tools**
+- Git
+- GitLab
+- GitHub
+- Jira
+- VS Code
+
+---
+
+### 📌 Featured Projects
+
+*More projects coming soon!*
+
+---
+
+### 🤝 Connect With Me
+
+- LinkedIn: [Feba Francis](https://www.linkedin.com/in/feba-francis)
+- GitHub: [@febafrancis-dev](https://github.com/febafrancis-dev)
+
+---
+
+⭐ Thanks for visiting my profile!
