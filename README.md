@@ -49,9 +49,20 @@ I enjoy building user-friendly applications, developing reusable components and 
 
 ---
 
+
 ### 📌 Featured Projects
 
-*More projects coming soon!*
+#### 🗺️ Postal Address Map
+A geolocation-based web application developed to visualize and manage spatial data.
+
+**Technologies:** React, TypeScript, Tailwind CSS
+
+- Developed interactive map-based features.
+- Implemented API data handling and state management.
+- Built responsive user interfaces.
+
+🚀 More projects, including AI-powered applications, coming soon!
+
 
 ---
 
