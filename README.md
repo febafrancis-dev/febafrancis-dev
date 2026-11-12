@@ -17,7 +17,7 @@ I enjoy building user-friendly applications, developing reusable components and 
 - 🔗 Experienced in REST API integration and frontend-backend communication.
 - 💻 Knowledge of .NET, Java, Spring Boot and MySQL.
 - 🌱 Currently expanding my skills in AI integration, software architecture and testing.
-- 🚀 Interested in building practical applications and continuously improving my development skills.
+- 🚀 Exposure to software testing, functional testing, validating API responses, checking edge cases, identifying defects, debugging and verifying fixes.
 
 ---
 
