@@ -73,6 +73,18 @@ A geolocation-based web application developed to visualize and manage spatial da
 
 🚀 More projects, including AI-powered applications, coming soon!
 
+### React Component Studio
+A reusable React component library built with React, TypeScript and Tailwind CSS.
+
+- Developed 5 reusable UI components.
+- Implemented configurable props and interactive states.
+- Added 29 automated tests using Vitest and React Testing Library.
+- Built a responsive component showcase.
+
+**Tech Stack:** React | TypeScript | Tailwind CSS | Vitest
+
+[View Project](https://github.com/febafrancis-dev/react-typescript-components)
+
 ---
 
 ### 📊 GitHub Stats
